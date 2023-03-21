@@ -1,6 +1,6 @@
-#Plan de Projet : Reconnaissance des entités nommées (REN)  des Interviews du Festival de Jazz de Montreux
+# Plan de Projet : Reconnaissance des entités nommées (REN)  des Interviews du Festival de Jazz de Montreux
 
-##Etapes à suivre
+## Etapes à suivre
 
 1. Collecte de données : La première étape du projet consiste à obtenir les fichiers JSON des interviews effectuées au Festival de Jazz de Montreux. Les données doivent être obtenues sous une forme structurée pour faciliter leur analyse.
 
